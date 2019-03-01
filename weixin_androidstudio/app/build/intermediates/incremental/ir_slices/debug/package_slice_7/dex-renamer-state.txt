@@ -1,0 +1,4 @@
+#Sat Dec 22 10:31:26 CST 2018
+base.0=C\:\\Users\\Ceilage\\AndroidStudioProjects\\weixin_androidstudio\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    //解决重复引用的问题
+    packagingOptions {
+        exclude 'META-INF/rxjava.properties'
+        exclude 'META-INF/LICENSE'
+    }
+
+    compileSdkVersion 25
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        applicationId "cn.buaa.myweixin"
+        minSdkVersion 15
+        //noinspection ExpiredTargetSdkVersion
+        targetSdkVersion 25
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:25.3.1'
+
+}
