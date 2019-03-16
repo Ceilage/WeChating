@@ -1,4 +1,4 @@
-#Fri Dec 21 15:01:16 CST 2018
-base.0=C\:\\Users\\Ceilage\\AndroidStudioProjects\\weixin_androidstudio\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+#Sat Mar 16 19:27:22 CST 2019
+base.0=C\:\\Users\\Ceilage\\WeChating\\weixin_androidstudio\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.0=classes.dex
 renamed.0=classes.dex

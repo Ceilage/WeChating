@@ -15,7 +15,7 @@ public class Appstart extends Activity{
 		setContentView(R.layout.appstart);
 	new Handler().postDelayed(new Runnable(){
 		@Override
-		public void run(){
+		public void run(){//延时
 			Intent intent = new Intent (Appstart.this,Welcome.class);			
 			startActivity(intent);			
 			Appstart.this.finish();

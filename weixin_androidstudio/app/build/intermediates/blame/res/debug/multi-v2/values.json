@@ -1,23 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ceilage\\AndroidStudioProjects\\weixin_androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Ceilage\\WeChating\\weixin_androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ceilage\\AndroidStudioProjects\\weixin_androidstudio\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Ceilage\\WeChating\\weixin_androidstudio\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "19,63,117,169",
-                        "endColumns": "42,52,50,52",
-                        "endOffsets": "57,111,163,217"
+                        "startLines": "37,31,49,41,45,54,58,62,2,68,103,72,83,93,113,12,4,23",
+                        "startColumns": "1,4,1,1,1,4,1,1,4,1,4,1,4,5,4,1,4,1",
+                        "startOffsets": "1574,1181,2249,1804,2025,2469,2648,2816,78,3136,5095,3266,3850,4475,5683,410,145,881",
+                        "endLines": "40,36,52,44,48,56,60,66,2,70,111,81,91,101,115,21,9,27",
+                        "endColumns": "9,9,9,9,9,9,9,9,58,9,13,12,13,13,9,9,9,9",
+                        "endOffsets": "1801,1571,2460,2022,2246,2640,2809,3130,132,3260,5670,3838,4461,5082,5849,873,395,1079"
                     },
                     "to": {
-                        "startLines": "349,350,351,354",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "34582,34625,34678,34853",
-                        "endColumns": "42,52,50,52",
-                        "endOffsets": "34620,34673,34724,34901"
+                        "startLines": "357,361,367,371,375,379,382,385,392,1403,1406,1415,1425,1434,1443,1818,1828,1834",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "35074,35303,35693,35906,36126,36349,36523,36687,37186,101708,101835,102406,102974,103581,104184,133290,133749,133999",
+                        "endLines": "360,366,370,374,378,381,384,389,392,1405,1414,1424,1433,1442,1445,1827,1833,1838",
+                        "endColumns": "9,9,9,9,9,9,9,9,57,9,13,12,13,13,9,9,9,9",
+                        "endOffsets": "35298,35688,35901,36121,36344,36518,36682,36997,37239,101830,102401,102969,103576,104179,104348,133744,133994,134193"
                     }
                 },
                 {
@@ -40,7 +42,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ceilage\\AndroidStudioProjects\\weixin_androidstudio\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\Ceilage\\WeChating\\weixin_androidstudio\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,63,117,169",
+                        "endColumns": "42,52,50,52",
+                        "endOffsets": "57,111,163,217"
+                    },
+                    "to": {
+                        "startLines": "349,350,351,354",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "34582,34625,34678,34853",
+                        "endColumns": "42,52,50,52",
+                        "endOffsets": "34620,34673,34724,34901"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ceilage\\WeChating\\weixin_androidstudio\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "3,4,2",
                         "startColumns": "4,4,4",
@@ -54,25 +73,6 @@
                         "startOffsets": "4015,4755,4803",
                         "endColumns": "42,47,45",
                         "endOffsets": "4053,4798,4844"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ceilage\\AndroidStudioProjects\\weixin_androidstudio\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "37,31,49,41,45,54,58,62,2,68,103,72,83,93,113,12,4,23",
-                        "startColumns": "1,4,1,1,1,4,1,1,4,1,4,1,4,5,4,1,4,1",
-                        "startOffsets": "1574,1181,2249,1804,2025,2469,2648,2816,78,3136,5095,3266,3850,4475,5683,410,145,881",
-                        "endLines": "40,36,52,44,48,56,60,66,2,70,111,81,91,101,115,21,9,27",
-                        "endColumns": "9,9,9,9,9,9,9,9,58,9,13,12,13,13,9,9,9,9",
-                        "endOffsets": "1801,1571,2460,2022,2246,2640,2809,3130,132,3260,5670,3838,4461,5082,5849,873,395,1079"
-                    },
-                    "to": {
-                        "startLines": "357,361,367,371,375,379,382,385,392,1403,1406,1415,1425,1434,1443,1818,1828,1834",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "35074,35303,35693,35906,36126,36349,36523,36687,37186,101708,101835,102406,102974,103581,104184,133290,133749,133999",
-                        "endLines": "360,366,370,374,378,381,384,389,392,1405,1414,1424,1433,1442,1445,1827,1833,1838",
-                        "endColumns": "9,9,9,9,9,9,9,9,57,9,13,12,13,13,9,9,9,9",
-                        "endOffsets": "35298,35688,35901,36121,36344,36518,36682,36997,37239,101830,102401,102969,103576,104179,104348,133744,133994,134193"
                     }
                 }
             ]
