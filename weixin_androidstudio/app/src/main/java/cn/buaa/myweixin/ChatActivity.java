@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
@@ -16,9 +17,12 @@ import android.widget.EditText;
 import android.widget.ListView;
 
 
-
+/**
+ * 
+ *
+ */
 public class ChatActivity extends Activity implements OnClickListener{
-    /* Called when the activity is first created. */
+    /** Called when the activity is first created. */
 
 	private Button mBtnSend;
 	private Button mBtnBack;
@@ -58,7 +62,7 @@ public class ChatActivity extends Activity implements OnClickListener{
     										"2018-12-19 18:03", "2018-12-19 18:04",
     										"2018-12-19 18:05", "2018-12-19 18:06",
     										"2018-12-20 13:05", "2018-12-20 13:10","2018-12-20 13:11",};
-    private final static int COUNT = 9;
+    private final static int COUNT = 8;
     public void initData()
     {
     	for(int i = 0; i < COUNT; i++)
@@ -105,7 +109,7 @@ public class ChatActivity extends Activity implements OnClickListener{
 		{
 			ChatMsgEntity entity = new ChatMsgEntity();
 			entity.setDate(getDate());
-			entity.setName("123");
+			entity.setName("����");
 			entity.setMsgType(false);
 			entity.setText(contString);
 			
@@ -136,7 +140,7 @@ public class ChatActivity extends Activity implements OnClickListener{
     }
     
     
-    public void head_xiaohei(View v) {
+    public void head_xiaohei(View v) {     //������ ���ذ�ť
     	Intent intent = new Intent (ChatActivity.this,InfoXiaohei.class);			
 		startActivity(intent);	
       } 

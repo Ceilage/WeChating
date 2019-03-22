@@ -1,3 +1,4 @@
+//Download by htp://www.codefans.net
 package cn.buaa.myweixin;
 
 import android.R.integer;

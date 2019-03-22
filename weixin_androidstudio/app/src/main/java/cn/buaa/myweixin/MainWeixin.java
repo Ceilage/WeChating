@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import java.util.ArrayList;
 
 import android.os.Bundle;
@@ -45,6 +46,7 @@ public class MainWeixin extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_weixin);
+
         getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN); 
         instance = this;
         /*
@@ -74,17 +76,22 @@ public class MainWeixin extends Activity {
         one = displayWidth/4;
         two = one*2;
         three = one*3;
+        //Log.i("info", "??????????????" + one + two + three + "X" + displayHeight);
+        
+        //InitImageView();
         LayoutInflater mLi = LayoutInflater.from(this);
         View view1 = mLi.inflate(R.layout.main_tab_weixin, null);
         View view2 = mLi.inflate(R.layout.main_tab_address, null);
         View view3 = mLi.inflate(R.layout.main_tab_friends, null);
         View view4 = mLi.inflate(R.layout.main_tab_settings, null);
+        
 
         final ArrayList<View> views = new ArrayList<View>();
         views.add(view1);
         views.add(view2);
         views.add(view3);
         views.add(view4);
+
         PagerAdapter mPagerAdapter = new PagerAdapter() {
 			
 			@Override
@@ -128,6 +135,7 @@ public class MainWeixin extends Activity {
 			mTabPager.setCurrentItem(index);
 		}
 	};
+    
 
 	public class MyOnPageChangeListener implements OnPageChangeListener {
 		@Override
@@ -192,7 +200,7 @@ public class MainWeixin extends Activity {
 				break;
 			}
 			currIndex = arg0;
-			animation.setFillAfter(true);
+			animation.setFillAfter(true);// True
 			animation.setDuration(150);
 			mTabImg.startAnimation(animation);
 		}
@@ -221,21 +229,28 @@ public class MainWeixin extends Activity {
         	}
     	}
     	
-    	else if(keyCode == KeyEvent.KEYCODE_MENU){
+    	else if(keyCode == KeyEvent.KEYCODE_MENU){   //??? Menu??			
 			if(!menu_display){
+				//LayoutInflater
 				inflater = (LayoutInflater)this.getSystemService(LAYOUT_INFLATER_SERVICE);
+
 				layout = inflater.inflate(R.layout.main_menu, null);
+				
 
 				menuWindow = new PopupWindow(layout,LayoutParams.FILL_PARENT, LayoutParams.WRAP_CONTENT);
 				//menuWindow.showAsDropDown(layout);
 				//menuWindow.showAsDropDown(null, 0, layout.getHeight());
 				menuWindow.showAtLocation(this.findViewById(R.id.mainweixin), Gravity.BOTTOM|Gravity.CENTER_HORIZONTAL, 0, 0);
+
 				mClose = (LinearLayout)layout.findViewById(R.id.menu_close);
 				mCloseBtn = (LinearLayout)layout.findViewById(R.id.menu_close_btn);
+				
+				
 
 				mCloseBtn.setOnClickListener (new View.OnClickListener() {					
 					@Override
 					public void onClick(View arg0) {						
+
 						Intent intent = new Intent();
 			        	intent.setClass(MainWeixin.this,Exit.class);
 			        	startActivity(intent);
@@ -244,6 +259,7 @@ public class MainWeixin extends Activity {
 				});				
 				menu_display = true;				
 			}else{
+
 				menuWindow.dismiss();
 				menu_display = false;
 				}
@@ -252,15 +268,16 @@ public class MainWeixin extends Activity {
 		}
     	return false;
     }
+
 	public void btnmainright(View v) {  
 		Intent intent = new Intent (MainWeixin.this,MainTopRightDialog.class);			
 		startActivity(intent);	
-		Toast.makeText(getApplicationContext(), "this is btnmainright", Toast.LENGTH_LONG).show();
+
       }  	
 	public void startchat(View v) {
 		Intent intent = new Intent (MainWeixin.this,ChatActivity.class);			
 		startActivity(intent);	
-		Toast.makeText(getApplicationContext(), "启动聊天界面", Toast.LENGTH_LONG).show();
+
       }  
 	public void exit_settings(View v) {
 		Intent intent = new Intent (MainWeixin.this,ExitFromSettings.class);			

@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import android.os.Bundle;
 import android.os.Handler;
 import android.app.Activity;

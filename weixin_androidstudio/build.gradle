@@ -14,8 +14,12 @@ allprojects {
     repositories {
         jcenter()
         google()
+        //个推
+        maven {
+            url "http://mvn.gt.igexin.com/nexus/content/repositories/releases/"
+        }
     }
 }
-
-dependencies {
+task clean(type: Delete) {
+    delete rootProject.buildDir
 }

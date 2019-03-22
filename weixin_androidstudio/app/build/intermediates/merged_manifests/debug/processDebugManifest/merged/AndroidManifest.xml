@@ -6,24 +6,55 @@
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="28" />
 
     <uses-permission android:name="android.permission.VIBRATE" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" />
+    <!-- iBeancon功能所需权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <!-- 个推3.0电子围栏功能所需权限  需要动态获取 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" /> <!-- 浮动通知权限 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 自定义权限 -->
+    <uses-permission android:name="getui.permission.GetuiService.cn.buaa.myweixin" />
+
+    <permission
+        android:name="getui.permission.GetuiService.cn.buaa.myweixin"
+        android:protectionLevel="normal" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="WeChating"
-        android:testOnly="true" >
+        android:label="@string/app_name"
+        android:usesCleartextTraffic="true" >
+        <service
+            android:name="cn.buaa.myweixin.GetuiDemo.PushService"
+            android:exported="true"
+            android:label="PushService"
+            android:process=":pushservice" >
+        </service>
+        <service android:name="cn.buaa.myweixin.GetuiDemo.DemoIntentService" />
+
         <activity
             android:name="cn.buaa.myweixin.Appstart"
+            android:label="@string/title_activity_main"
             android:theme="@style/Anim_style2" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+
+                <!-- action android:name="android.intent.action.MAIN" / -->
+                <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
@@ -67,6 +98,52 @@
         <activity
             android:name="cn.buaa.myweixin.MainTopRightDialog"
             android:theme="@style/MyDialogStyleTop" />
+        <!-- 第三方应用配置 -->
+        <meta-data
+            android:name="PUSH_APPID"
+            android:value="fZSJM5MiKo6ax6sw5zY0S9" />
+        <meta-data
+            android:name="PUSH_APPKEY"
+            android:value="ajAMrn6DZI9fiMIpXKOFq5" />
+        <meta-data
+            android:name="PUSH_APPSECRET"
+            android:value="ypLxdUBNQF75lyrJRxfmI1" /> <!-- 配置SDK核心服务 -->
+        <service
+            android:name="com.igexin.sdk.PushService"
+            android:exported="true"
+            android:label="NotificationCenter"
+            android:process=":pushservice" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.service.message" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.igexin.sdk.PushReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="com.igexin.sdk.action.refreshls" />
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.igexin.sdk.PushActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.igexin.sdk.GActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
     </application>
 
 </manifest>

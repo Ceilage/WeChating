@@ -85,7 +85,7 @@
         			android:layout_alignParentBottom="true"
         			android:layout_marginLeft="95dp"
         			android:padding="15dp" 
-        			android:text="微信号：heiany888"
+        			android:text="微信号：heianyouxia"
         			android:textSize="15sp"		
 					android:textColor="#333" /> 
         </RelativeLayout>

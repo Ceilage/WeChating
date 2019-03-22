@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -22,7 +23,7 @@ public class MainTopRightDialog extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				Toast.makeText(getApplicationContext(), "this is top right",
+				Toast.makeText(getApplicationContext(), "123",
 						Toast.LENGTH_SHORT).show();	
 			}
 		});
@@ -39,7 +40,7 @@ public class MainTopRightDialog extends Activity {
       }  
 	public void exitbutton0(View v) {  
     	this.finish();
-    	MainWeixin.instance.finish();
+    	MainWeixin.instance.finish();//�ر�Main ���Activity
       }  
 	*/
 }

@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import android.os.Bundle;
 import android.os.Handler;
 import android.app.Activity;
@@ -21,7 +22,7 @@ public class LoadingActivity extends Activity{
 			Intent intent = new Intent (LoadingActivity.this,Whatsnew.class);			
 			startActivity(intent);			
 			LoadingActivity.this.finish();
-			Toast.makeText(getApplicationContext(), "正在登录", Toast.LENGTH_SHORT).show();
+			Toast.makeText(getApplicationContext(), "隔壁老王", Toast.LENGTH_SHORT).show();
 		}
 	}, 200);
    }

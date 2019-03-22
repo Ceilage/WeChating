@@ -1,21 +1,40 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
-INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
-INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
-INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
-INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
-INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-37:12
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\038e3105c24f46e32c95647f98a6c7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e11af0259b271b3839b2a193390acbc0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:2:1-83:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7af22567236d73db7d5ba0e6d80106b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f400e0f911874b84c9071ed7f3c75b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\30f1713edad7a52526ce2f844274483c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c77b2e19f97d2436c7b53b36330f0cc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34b5becd8fac4e48a210406c114fcbf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\loader-28.0.0.aar\c017c1c377014e96bfc48578a2265f25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c17b3687fa51751d2f33dc15e123b288\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\72ef385cbeb040f840577286685c78ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\92834213e2cae83f3e3e9a92e4470269\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\991cfcaa07fc3e329482436d626c6c7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\customview-28.0.0.aar\210d2ef6aa13a1f7fe2a3f2f6a7eaa4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\936edc24c73cca7d79da73c2a7697722\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a8fd3e78b65f95b86547928976bab755\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\803b331bbec6a138689f73e24d35a94e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4f749bbd7dc29a279bee5d84dd20e5d3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d37b40465fc901a40b864e7ff8f1b9b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cbdc7e61e3835ae90316d8e4127ed192\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4ad6f6c07bbf945bcf0b4dd32d81c831\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1aca6c2bf5537f91d01722c80fcf3c24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\print-28.0.0.aar\f2638784f5f6988f6e869fe255e68919\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f64c584f369f68b624cf8206036c984c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\livedata-1.1.1.aar\27b73668ed0c8ca41a54675afda18dec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5258493109cc15571ba583ae3d539952\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23cb12e9e2480ee00c30cc40aab2ce97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\76721c3373969a3c45b03f757e96495c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12
 	package
 		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:2:5-31
 		INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
@@ -32,152 +51,216 @@ INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\Andro
 		INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.VIBRATE
 ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:18:5-66
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:18:5-66
 	android:name
 		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:13:22-78
 application
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:9:5-35:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:16:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e11af0259b271b3839b2a193390acbc0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e11af0259b271b3839b2a193390acbc0\AndroidManifest.xml:9:5-20
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:31:5-81:19
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:31:5-81:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\803b331bbec6a138689f73e24d35a94e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\803b331bbec6a138689f73e24d35a94e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4f749bbd7dc29a279bee5d84dd20e5d3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4f749bbd7dc29a279bee5d84dd20e5d3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\803b331bbec6a138689f73e24d35a94e\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:11:9-34
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:18:9-41
 	android:icon
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:10:9-38
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:17:9-38
+	android:usesCleartextTraffic
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:31:18-53
+service#cn.buaa.myweixin.GetuiDemo.PushService
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:20:9-25:19
+	android:process
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:24:13-43
+	android:label
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:23:13-40
+	android:exported
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:21:13-66
+service#cn.buaa.myweixin.GetuiDemo.DemoIntentService
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:26:9-79
+	android:name
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:26:18-77
 activity#cn.buaa.myweixin.Appstart
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:29:13-56
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:15:13-47
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:30:13-47
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:14:13-37
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:16:13-20:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:17:17-69
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:28:13-37
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:34:27-74
 activity#cn.buaa.myweixin.WhatsnewDoor
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:22:9-85
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:37:9-85
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:22:48-82
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:37:48-82
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:37:19-47
 activity#cn.buaa.myweixin.MainWeixin
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:23:9-83
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:38:9-83
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:23:46-80
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:38:46-80
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:23:19-45
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:38:19-45
 activity#cn.buaa.myweixin.Login
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:24:9-92
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:39:9-92
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:24:42-89
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:39:42-89
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:24:19-40
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:39:19-40
 activity#cn.buaa.myweixin.Welcome
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:25:9-82
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:40:9-82
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:25:44-78
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:40:44-78
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:25:19-42
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:40:19-42
 activity#cn.buaa.myweixin.Whatsnew
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:26:9-82
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:41:9-82
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:26:45-79
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:41:45-79
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:26:19-43
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:41:19-43
 activity#cn.buaa.myweixin.ChatActivity
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:27:9-99
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:42:9-99
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:27:49-96
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:42:49-96
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:27:19-47
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:42:19-47
 activity#cn.buaa.myweixin.ShakeActivity
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:28:9-100
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:43:9-100
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:28:50-97
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:43:50-97
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:43:19-48
 activity#cn.buaa.myweixin.InfoXiaohei
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:29:9-98
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:44:9-98
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:29:48-95
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:44:48-95
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:29:19-46
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:44:19-46
 activity#cn.buaa.myweixin.Exit
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:30:9-78
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:45:9-78
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:30:39-75
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:45:39-75
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:30:19-38
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:45:19-38
 activity#cn.buaa.myweixin.ExitFromSettings
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:31:9-96
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:46:9-96
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:31:51-93
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:46:51-93
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:31:19-50
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:46:19-50
 activity#cn.buaa.myweixin.InfoXiaoheiHead
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:32:9-85
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:47:9-85
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:32:50-82
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:47:50-82
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:47:19-49
 activity#cn.buaa.myweixin.LoadingActivity
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:33:9-89
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:48:9-89
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:33:50-86
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:48:50-86
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:33:19-49
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:48:19-49
 activity#cn.buaa.myweixin.MainTopRightDialog
-ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:34:9-95
+ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:49:9-95
 	android:theme
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:34:53-92
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:49:53-92
 	android:name
-		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:34:19-52
+		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:49:19-52
 uses-sdk
 INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\038e3105c24f46e32c95647f98a6c7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\038e3105c24f46e32c95647f98a6c7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e11af0259b271b3839b2a193390acbc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e11af0259b271b3839b2a193390acbc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7af22567236d73db7d5ba0e6d80106b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7af22567236d73db7d5ba0e6d80106b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f400e0f911874b84c9071ed7f3c75b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f400e0f911874b84c9071ed7f3c75b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\30f1713edad7a52526ce2f844274483c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\30f1713edad7a52526ce2f844274483c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c77b2e19f97d2436c7b53b36330f0cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c77b2e19f97d2436c7b53b36330f0cc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34b5becd8fac4e48a210406c114fcbf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\34b5becd8fac4e48a210406c114fcbf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\loader-28.0.0.aar\c017c1c377014e96bfc48578a2265f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\loader-28.0.0.aar\c017c1c377014e96bfc48578a2265f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c17b3687fa51751d2f33dc15e123b288\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c17b3687fa51751d2f33dc15e123b288\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\72ef385cbeb040f840577286685c78ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\72ef385cbeb040f840577286685c78ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\92834213e2cae83f3e3e9a92e4470269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\92834213e2cae83f3e3e9a92e4470269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\991cfcaa07fc3e329482436d626c6c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\991cfcaa07fc3e329482436d626c6c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\customview-28.0.0.aar\210d2ef6aa13a1f7fe2a3f2f6a7eaa4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\customview-28.0.0.aar\210d2ef6aa13a1f7fe2a3f2f6a7eaa4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\936edc24c73cca7d79da73c2a7697722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\936edc24c73cca7d79da73c2a7697722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a8fd3e78b65f95b86547928976bab755\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a8fd3e78b65f95b86547928976bab755\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\803b331bbec6a138689f73e24d35a94e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\803b331bbec6a138689f73e24d35a94e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4f749bbd7dc29a279bee5d84dd20e5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4f749bbd7dc29a279bee5d84dd20e5d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d37b40465fc901a40b864e7ff8f1b9b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d37b40465fc901a40b864e7ff8f1b9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cbdc7e61e3835ae90316d8e4127ed192\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cbdc7e61e3835ae90316d8e4127ed192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4ad6f6c07bbf945bcf0b4dd32d81c831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4ad6f6c07bbf945bcf0b4dd32d81c831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1aca6c2bf5537f91d01722c80fcf3c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1aca6c2bf5537f91d01722c80fcf3c24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\print-28.0.0.aar\f2638784f5f6988f6e869fe255e68919\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\print-28.0.0.aar\f2638784f5f6988f6e869fe255e68919\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f64c584f369f68b624cf8206036c984c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f64c584f369f68b624cf8206036c984c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\livedata-1.1.1.aar\27b73668ed0c8ca41a54675afda18dec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\livedata-1.1.1.aar\27b73668ed0c8ca41a54675afda18dec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5258493109cc15571ba583ae3d539952\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5258493109cc15571ba583ae3d539952\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23cb12e9e2480ee00c30cc40aab2ce97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\23cb12e9e2480ee00c30cc40aab2ce97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\76721c3373969a3c45b03f757e96495c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\76721c3373969a3c45b03f757e96495c\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
@@ -186,25 +269,157 @@ INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\Andro
 		INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\737b27a2d8cafaf35b09a76c36d10a08\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\5dcbe0b99e224d0fe46b0571c88f4854\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\afadc01a52c4a5c7543d5d7ee34f30c6\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\39ef7ba8b1fa43f0e89151d39faa925c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1ff1f18fa7ee210f3c0c54dd2119df4e\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\d848d65330206fd003441dae91cdf549\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\061b5df0df13ba17de6d9b3a2f69def8\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a800a936e900525284d290f45e32e2e5\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:27:9-31
+uses-permission#android.permission.INTERNET
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c04cc9a38aa296a45b651a601b8bf08a\AndroidManifest.xml:26:9-47
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:22:22-75
+uses-permission#getui.permission.GetuiService.${applicationId}
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:25:5-86
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:25:22-83
+uses-permission#getui.permission.GetuiService.cn.buaa.myweixin
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:25:5-86
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:25:22-83
+permission#getui.permission.GetuiService.${applicationId}
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:27:5-29:44
+	android:protectionLevel
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:29:9-41
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:28:9-70
+permission#getui.permission.GetuiService.cn.buaa.myweixin
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:27:5-29:44
+	android:protectionLevel
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:29:9-41
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:28:9-70
+meta-data#PUSH_APPID
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:34:9-36:47
+	android:value
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:35:13-38
+meta-data#PUSH_APPKEY
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:37:9-39:48
+	android:value
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:38:13-39
+meta-data#PUSH_APPSECRET
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:40:9-42:51
+	android:value
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:42:13-48
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:41:13-42
+service#com.igexin.sdk.PushService
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:45:9-53:19
+	android:process
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:49:13-43
+	android:label
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:48:13-47
+	android:exported
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:46:13-54
+intent-filter#action:name:com.igexin.sdk.action.service.message
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:50:13-52:29
+action#com.igexin.sdk.action.service.message
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:51:17-80
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:51:25-77
+receiver#com.igexin.sdk.PushReceiver
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:55:9-65:20
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:55:19-61
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:com.igexin.sdk.action.refreshls
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:56:13-64:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:57:17-79
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:57:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:58:17-79
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:58:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:59:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:60:17-74
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:60:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:61:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:62:17-87
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:62:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:63:17-90
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:63:25-87
+activity#com.igexin.sdk.PushActivity
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:67:9-73:75
+	android:process
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:71:13-43
+	android:excludeFromRecents
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:69:13-46
+	android:exported
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:73:13-72
+	android:taskAffinity
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:72:13-67
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:68:13-55
+activity#com.igexin.sdk.GActivity
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:74:9-80:75
+	android:process
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:78:13-43
+	android:excludeFromRecents
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:76:13-46
+	android:exported
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:77:13-36
+	android:theme
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:80:13-72
+	android:taskAffinity
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:79:13-67
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Ceilage\.gradle\wrapper\dists\gradle-2.14.1-all\caches\transforms-1\files-1.1\sdk-2.12.5.0.aar\ff8d82e6e7a61d51584768d0673f034a\AndroidManifest.xml:75:13-52
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Ceilage\WeChating\weixin_androidstudio\app\src\main\AndroidManifest.xml:1:1-52:12 reason: com.igexin.sdk requested WRITE_EXTERNAL_STORAGE

@@ -1,4 +1,6 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -22,7 +24,7 @@ public class ExitFromSettings extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				Toast.makeText(getApplicationContext(), "确定要退出么??",
+				Toast.makeText(getApplicationContext(), "亲？您确定要退出么?退出后并会影响您的聊天记录哦！",
 						Toast.LENGTH_SHORT).show();	
 			}
 		});
@@ -39,7 +41,7 @@ public class ExitFromSettings extends Activity {
       }  
 	public void exitbutton0(View v) {  
     	this.finish();
-    	MainWeixin.instance.finish();//
+    	MainWeixin.instance.finish();//�ر�Main ���Activity
       }  
 	
 }

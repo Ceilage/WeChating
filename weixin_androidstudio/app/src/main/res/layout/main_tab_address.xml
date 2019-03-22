@@ -30,64 +30,6 @@
 				android:background="@drawable/title_btn_right"
 			    />      
 		</RelativeLayout>
+			
 
-	<RelativeLayout
-		android:layout_width="fill_parent"
-		android:layout_height="70sp"
-		android:layout_marginTop="14dp"
-		android:background="@drawable/preference_single_item"
-		android:clickable="true"
-		android:gravity="center_vertical"
-		android:onClick="btn_shake">
-
-		<ImageView
-			android:id="@+id/add_friend_shake"
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_alignParentLeft="true"
-			android:layout_centerVertical="true"
-			android:scaleType="matrix"
-			android:src="@drawable/xiaohei_small" />
-
-		<TextView
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_centerVertical="true"
-			android:layout_toRightOf="@id/add_friend_shake"
-			android:padding="8dp"
-			android:text="您的沙雕网友"
-			android:textColor="#000"
-			android:textSize="17sp" />
-	</RelativeLayout>
-	<RelativeLayout
-		android:layout_width="fill_parent"
-		android:layout_height="70sp"
-		android:layout_marginTop="14dp"
-		android:background="@drawable/preference_single_item"
-		android:clickable="true"
-		android:gravity="center_vertical"
-		android:onClick="btn_shake">
-
-		<ImageView
-			android:id="@+id/add_friend01"
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_alignParentLeft="true"
-			android:layout_centerVertical="true"
-			android:scaleType="matrix"
-			android:src="@drawable/friend01_small" />
-
-		<TextView
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_centerVertical="true"
-			android:layout_toRightOf="@id/add_friend01"
-			android:padding="8dp"
-			android:text="您的机智网友"
-			android:textColor="#000"
-			android:textSize="17sp" />
-	</RelativeLayout>
-
-
-
-</LinearLayout>
+ </LinearLayout>

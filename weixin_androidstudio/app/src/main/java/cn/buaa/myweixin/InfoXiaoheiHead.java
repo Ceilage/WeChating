@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import android.os.Bundle;
 import android.os.Handler;
 import android.app.Activity;
@@ -17,7 +18,7 @@ public class InfoXiaoheiHead extends Activity{
 		//requestWindowFeature(Window.FEATURE_NO_TITLE);//
 		//getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
         //        WindowManager.LayoutParams.FLAG_FULLSCREEN);   //
-		//Toast.makeText(getApplicationContext(), "this is setflags", Toast.LENGTH_LONG).show();
+		//Toast.makeText(getApplicationContext(), "隔壁老王", Toast.LENGTH_LONG).show();
 		//overridePendingTransition(R.anim.hyperspace_in, R.anim.hyperspace_out);
 
    }

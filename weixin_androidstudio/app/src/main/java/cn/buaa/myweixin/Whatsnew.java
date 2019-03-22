@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import java.util.ArrayList;
 import android.os.Bundle;
 import android.app.Activity;
@@ -31,8 +32,7 @@ public class Whatsnew extends Activity {
         setContentView(R.layout.whatsnew_viewpager);
         mViewPager = (ViewPager)findViewById(R.id.whatsnew_viewpager);        
         mViewPager.setOnPageChangeListener(new MyOnPageChangeListener());
-       
-        
+
         mPage0 = (ImageView)findViewById(R.id.page0);
         mPage1 = (ImageView)findViewById(R.id.page1);
         mPage2 = (ImageView)findViewById(R.id.page2);

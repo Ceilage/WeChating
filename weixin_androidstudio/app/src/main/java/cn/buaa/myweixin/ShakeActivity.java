@@ -36,6 +36,7 @@ public class ShakeActivity extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);	
 		setContentView(R.layout.shake_activity);
+		//drawerSet ();
 		
 		mVibrator = (Vibrator)getApplication().getSystemService(VIBRATOR_SERVICE);
 		
@@ -55,6 +56,7 @@ public class ShakeActivity extends Activity{
 				mTitle.startAnimation(titleup);
 			}
 		});
+
 		mDrawer.setOnDrawerCloseListener(new OnDrawerCloseListener()
 		{	public void onDrawerClosed()
 			{	
@@ -69,7 +71,6 @@ public class ShakeActivity extends Activity{
 		mShakeListener = new ShakeListener(this);
         mShakeListener.setOnShakeListener(new OnShakeListener() {
 			public void onShake() {
-				Toast.makeText(getApplicationContext(), "开始摇动你的手机", Toast.LENGTH_SHORT).show();
 				startAnim();
 				mShakeListener.stop();
 				startVibrato();
@@ -78,8 +79,7 @@ public class ShakeActivity extends Activity{
 					public void run(){
 						Toast mtoast;
 						mtoast = Toast.makeText(getApplicationContext(),
-							     "this is post delayed", 10);
-							   //mtoast.setGravity(Gravity.CENTER, 0, 0);
+							     "123",Toast.LENGTH_LONG);
 							   mtoast.show();
 							   mVibrator.cancel();
 							   mShakeListener.start();

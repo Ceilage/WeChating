@@ -1,4 +1,5 @@
 package cn.buaa.myweixin;
+//Download by htp://www.codefans.net
 import android.net.Uri;
 import android.os.Bundle;
 import android.app.Activity;
@@ -29,36 +30,37 @@ public class Login extends Activity {
              Intent intent = new Intent();
              intent.setClass(Login.this,LoadingActivity.class);
              startActivity(intent);
+             //Toast.makeText(getApplicationContext(), "隔壁老张", Toast.LENGTH_SHORT).show();
           }
-        else if("".equals(mUser.getText().toString()) || "".equals(mPassword.getText().toString()))
+        else if("".equals(mUser.getText().toString()) || "".equals(mPassword.getText().toString()))   //
         {
         	new AlertDialog.Builder(Login.this)
 			.setIcon(getResources().getDrawable(R.drawable.login_error_icon))
-			.setTitle("empty")//
-			.setMessage("用户或密码为空")
+			.setTitle("��¼����")
+			.setMessage("΢���ʺŻ������벻��Ϊ�գ�\n��������ٵ�¼��")
 			.create().show();
          }
         else{
            
         	new AlertDialog.Builder(Login.this)
 			.setIcon(getResources().getDrawable(R.drawable.login_error_icon))
-			.setTitle("error")
-			.setMessage("用户或密码错误")
+			.setTitle("��¼ʧ��")
+			.setMessage("΢���ʺŻ������벻��ȷ��\n������������룡")
 			.create().show();
         }
     	
-
+    	//��¼��ť
     	/*
       	Intent intent = new Intent();
 		intent.setClass(Login.this,Whatsnew.class);
 		startActivity(intent);
-		Toast.makeText(getApplicationContext(), "you are new user", Toast.LENGTH_SHORT).show();
+		Toast.makeText(getApplicationContext(), "��¼�ɹ�", Toast.LENGTH_SHORT).show();
 		this.finish();*/
       }  
     public void login_back(View v) {     //������ ���ذ�ť
       	this.finish();
       }  
-    public void login_pw(View v) {
+    public void login_pw(View v) {     //�������밴ť
     	Uri uri = Uri.parse("http://3g.qq.com"); 
     	Intent intent = new Intent(Intent.ACTION_VIEW, uri); 
     	startActivity(intent);
